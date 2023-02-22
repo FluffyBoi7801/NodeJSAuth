@@ -9,7 +9,7 @@ Passwords enycrypted by bcrypt lib
 
 
 
-# This proejct doesn't have any Swagger API docs it follows =>
+# This project doesn't have any Swagger API docs it follows =>
 
 Where * is server address and port
 
